@@ -2,11 +2,11 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<img src="https://ibb.co/gFtw6rv" height="90" width="100%">
 
 <p align="center">
 <a href="https://github.com/Vishmitha12345/PRAMIYA-X-MD">
-    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+    <img src=https://ibb.co/gFtw6rv"  width="700px">
 </a>
 <hr>
  <p align="center">

@@ -2,20 +2,20 @@
 
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＡＳＩＴＨＡ+ＭＤ+V3+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-<img src="https://i.ibb.co/0GhKf6N/20241120-113020.jpg" height="90" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 <p align="center">
-<a href="https://github.com/Vishmitha12345/PRAMIYA-X-MD">
-    <img src="https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
+<a href="https://github.com/ASITHA-MD/ASITHA-BOT">
+    <img src=https://i.ibb.co/0GhKf6N/20241120-113020.jpg"  width="700px">
 </a>
 <hr>
  <p align="center">
 
-  <a href="https://github.com/Vishmitha12345/PRAMIYA-X-MD">
+  <a href="https://github.com/ASITHA-MD/ASITHA-BOT">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FASITHA-MD%2FASITHA-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
-  <a href="https://github.com/Vishmitha12345/PRAMIYA-X-MD">
+  <a href="https://github.com/ASITHA-MD/ASITHA-BOT">
     <img src="https://img.shields.io/github/forks/ASITHA-MD/ASITHA-BOT?label=Fork&style=social">
     
   </a>
